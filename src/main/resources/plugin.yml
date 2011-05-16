@@ -1,0 +1,11 @@
+name: RedditStillWins
+main: yetanotherx.bukkitplugin.RedditStillWins.RedditStillWins
+version: 1.0
+commands:
+    planned-restart:
+        description: Restart the server
+        usage: /<command>
+        aliases: prestart
+    restart:
+        description: Restart the server without notifying users
+        usage: /<command>
